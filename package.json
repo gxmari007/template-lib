@@ -1,12 +1,13 @@
 {
-  "name": "lib",
-  "version": "1.0.0",
+  "name": "template-lib",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "devDependencies": {
+    "eslint": "^7.22.0"
+  }
 }
