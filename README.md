@@ -1,6 +1,6 @@
 # template-lib
 
-Library development template.
+Template for develop library.
 
 ## Usage
 
