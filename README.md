@@ -4,10 +4,14 @@ Library development template.
 
 ## Usage
 
+Download template
+
 ```bash
-git clone git@github.com:gxmari007/template-lib.git
+npx degit git@github.com:gxmari007/template-lib.git#main
 ```
 
-## License
+scripts
 
-MIT
+```bash
+
+```
