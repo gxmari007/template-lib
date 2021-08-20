@@ -1,17 +1,20 @@
 # template-lib
 
-Template for develop library.
+Template for library.
 
 ## Usage
 
-Download template
+### GitHub template
+
+[Create a repo form this template.](https://github.com/gxmari007/template-lib/generate)
+
+### Clone to local
 
 ```bash
-npx degit git@github.com:gxmari007/template-lib.git#main
+npx degit git@github.com:gxmari007/template-lib.git project-name
 ```
 
-scripts
+### Todos
 
-```bash
-
-```
+- [ ] Rename `name` field in `package.json`
+- [ ] Clean up the README.md
